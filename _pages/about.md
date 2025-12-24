@@ -50,9 +50,9 @@ redirect_from:
 
 ### Journal
 ---
-**<span style="background-color: #708090; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">HotMobile</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuron-Aware Brain-to-Computer Communication for Wireless Intracortical BCI</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>\, Junyi Wang, Xi Chen, Jun Huang</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3638550.3641141?casa_token=t8-ceyd4wysAAAAA:XYpeTwWlb_EhlY-18qsWPrjnDVnfu1_Nh1AeR1MG4o1QeXI_71r1xWIUgaxSTXO12HgAoYm2BOYpgA">paper</a> |
+**<span style="background-color: #708090; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Micromachine</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Switchable and Dual-Tunable Multilayered Terahertz Absorber Based on Patterned Graphene and Vanadium Dioxide</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>\, Panpan Wang, Jiali Wu, Xin Yan, Xueguang Yuan, Yangan Zhang, Xia Zhang</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://www.mdpi.com/2072-666X/12/6/619">paper</a> |
 
 
 ## Awards
