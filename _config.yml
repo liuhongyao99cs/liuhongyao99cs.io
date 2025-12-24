@@ -11,9 +11,9 @@ title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Hongyao LIU (刘泓尧)"
 description              : &description "A Ph.D. student at CityUHK."
-url                      : https://jt-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liuhongyao99cs.github.io/liuhongyao99cs.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jt-zhang/jt-zhang.github.io"
+repository               : "liuhongyao99cs.github.io/liuhongyao99cs.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jintao Zhang (张金涛)"
-  avatar           : "profile.jpeg"
-  bio              : "A Ph.D. student at Tsinghua University."
-  location         : "Beijing / California"
+  name             : "Hongyao LIU (刘泓尧)"
+  avatar           : #"profile.jpeg"
+  bio              : "A Ph.D. student at CityUHK."
+  location         : "Hong Kong"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=J3NTnmEAAAAJ"
-  email            : "jtzhang6 AT gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wijO10AAAAAJ&hl=en"
+  email            : "liuhongyao1230 AT gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jt-zhang"
+  github           : "liuhongyao99cs"
   google_plus      :
   keybase          :
   # instagram        : "jt_zhang6"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jintao-zhang-57637a272"
+  linkedin         : #"jintao-zhang-57637a272"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -111,11 +111,11 @@ author:
   tumblr           :
   # twitter          : "Winterice10"
   vine             :
-  weibo            : "u/6366064730"
-  zhihu            : "https://www.zhihu.com/people/tete-77-44"
-  wechat_qr        : "wechat_qr.jpg" # 微信二维码图片
-  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/5fedb2f9000000000100009c"
-  x                 : "https://x.com/Jintao_Zhang_"
+  weibo            : #"u/6366064730"
+  zhihu            : #"https://www.zhihu.com/people/tete-77-44"
+  wechat_qr        : #"wechat_qr.jpg" # 微信二维码图片
+  xiaohongshu      : #"https://www.xiaohongshu.com/user/profile/5fedb2f9000000000100009c"
+  x                 :#"https://x.com/Jintao_Zhang_"
   xing             :
   youtube          :
   wikipedia        :
