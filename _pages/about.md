@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#[View My CV](https://jt-zhang.github.io/files/CV-Jintao_Zhang_homepage.pdf)
+[View My CV](https://jt-zhang.github.io/files/CV-Jintao_Zhang_homepage.pdf)
 
 
 ## About Me
