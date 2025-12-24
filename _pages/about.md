@@ -16,14 +16,17 @@ redirect_from:
 </p>
 
 ## Research Interests
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
-<strong>(1)</strong> <u>AIoT</u>: efficient network streaming algorithm design to support on-device AI and other sensing applications; </span>
-
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
-<strong>(2)</strong> <u>BCI</u>: efficient streaming framework design for wireless brain-computer interfaces; </span>
-
-<span style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;"> 
-<strong>(3)</strong> <u>On-device LLM serving</u>: faster response of edge LLMs using wireless streaming and efficient computing; </span>
+<div style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+    <div style="margin-bottom: 6px;">
+        <strong>(1)</strong> <u>AIoT</u>: Designing efficient network streaming algorithms for on-device AI and multimodal sensing applications;
+    </div>
+    <div style="margin-bottom: 6px;">
+        <strong>(2)</strong> <u>BCI</u>: Architecting wireless streaming frameworks for high-fidelity brain-computer interfaces;
+    </div>
+    <div>
+        <strong>(3)</strong> <u>On-device LLM</u>: Accelerating edge LLM inference via collaborative wireless streaming and efficient computing.
+    </div>
+</div>
 
 ## Selected Publications
 
