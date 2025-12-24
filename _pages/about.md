@@ -23,21 +23,32 @@ redirect_from:
 
 ## Selected Publications
 
-**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">TurboDiffusion: Accelerating Video Diffusion Models by 100--200 Times</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Jintao Zhang</u></strong>\*, Kaiwen Zheng\*, Kai Jiang\*, Haoxu Wang\*, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://jt-zhang.github.io/files/TurboDiffusion_Technical_Report.pdf">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/TurboDiffusion"><img src="https://img.shields.io/github/stars/thu-ml/TurboDiffusion.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
-
+### Conferences
 ---
 **<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">MobiCom</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Liuqun Zhai, Yuguang Fang, Jun Huang</span>  
 2024, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3636534.3690673?casa_token=-x-MN3uYJ3kAAAAA:cyllAmMC6ITr9jX-LPbgTqbeGvOjSEHGK-r4Zt7IKY2LK_mg3a1IckPNToh2J3NrTcnysgBiWdQuSQ)">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/Neuralite"></a> |
+| <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/Neuralite" target="_blank" style="
+    background-color: #24292e; 
+    color: white; 
+    padding: 3px 8px; 
+    border-radius: 4px; 
+    text-decoration: none; 
+    font-size: 13px; 
+    font-weight: bold;
+    display: inline-flex; 
+    align-items: center; 
+    vertical-align: middle;">
+  <i class="fab fa-github" style="margin-right: 5px; font-size: 14px;"></i> Code
+</a> |
 
 ---
+**<span style="background-color: #198754; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">HotMobile</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuron-Aware Brain-to-Computer Communication for Wireless Intracortical BCI by 100--200 Times</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>\, Junyi Wang, Xi Chen, Jun Huang</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3638550.3641141?casa_token=t8-ceyd4wysAAAAA:XYpeTwWlb_EhlY-18qsWPrjnDVnfu1_Nh1AeR1MG4o1QeXI_71r1xWIUgaxSTXO12HgAoYm2BOYpgA">paper</a>
 
-
+### Journal
 
 
 ## Awards
