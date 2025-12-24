@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hongyao LIU (刘泓尧)"
-  avatar           : "https://github.com/liuhongyao99cs/liuhongyao99cs.io/blob/master/images/profile.jpeg"
+  avatar           : "https://raw.githubusercontent.com/liuhongyao99cs/liuhongyao99cs.github.io/master/images/profile.jpeg"
   bio              : "A Ph.D. student at CityUHK."
   location         : "Hong Kong"
   # employer         :
