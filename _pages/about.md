@@ -69,6 +69,18 @@ redirect_from:
 
 ## Awards
 
+--
+<div style="font-family: system-ui, sans-serif; margin-bottom: 8px;">
+    <span style="background-color: #6c757d; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px; margin-right: 5px;">2023</span>
+    
+    <span style="background-color: #4169E1; color: white; padding: 2px 8px; border-radius: 10px; font-size: 13px; font-weight: bold;">
+        校二等奖学金
+    </span>
+    
+    <span style="margin-left: 5px; color: #333;">
+        北京邮电大学 (BUPT)
+    </span>
+</div>
 
 
 <!-- 
