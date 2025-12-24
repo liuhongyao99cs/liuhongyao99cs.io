@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Hongyao LIU (刘泓尧)"
 description              : &description "A Ph.D. student at CityUHK."
 url                      : https://github.com/liuhongyao99cs.github.io/liuhongyao99cs.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blob" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuhongyao99cs.github.io/liuhongyao99cs.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
