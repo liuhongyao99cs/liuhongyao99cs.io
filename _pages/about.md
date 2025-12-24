@@ -90,7 +90,7 @@ redirect_from:
     </span>
     
     <span style="margin-left: 5px; color: #333;">
-        City University of Hong Kong (CityUHK)Research Tuition Scholarship
+        Research Tuition Scholarship
     </span>
 </div>
 
