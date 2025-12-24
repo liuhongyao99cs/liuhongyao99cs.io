@@ -33,7 +33,9 @@ redirect_from:
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Liuqun Zhai, Yuguang Fang, Jun Huang</span>  
 2024, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/3636534.3690673?casa_token=-x-MN3uYJ3kAAAAA:cyllAmMC6ITr9jX-LPbgTqbeGvOjSEHGK-r4Zt7IKY2LK_mg3a1IckPNToh2J3NrTcnysgBiWdQuSQ)">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/Neuralite">|
+<a href="https://github.com/liuhongyao99cs/Neuralite" target="_blank" style="background-color: #24292e; color: white; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 13px; display: inline-flex; align-items: center;">
+  <i class="fa fa-github" style="margin-right: 4px;"></i> Code
+</a>
 
 ---
 
@@ -41,22 +43,6 @@ redirect_from:
 
 
 ## Awards
-<!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
-<!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
-<!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
-<span style="font-family: 'Cambria', serif;">Nov. 2025: ByteDance Scholarship</span>    <i>(less than 20 globally/year)</i>   
-
-<span style="font-family: 'Cambria', serif;">Oct. 2025: National Graduate Scholarship at Tsinghua University</span>    
-
-<span style="font-family: 'Cambria', serif;">May. 2023: Siebel Scholars Scholarship</span>    <i>(less than 100 globally/year)</i>  
-
-<span style="font-family: 'Cambria', serif;">Dec. 2020: President's Scholarship of Xidian University</span>    <i>(The highest Award in Xidian)</i>  
-
-<span style="font-family: 'Cambria', serif;">Dec. 2020: National Undergraduate Scholarship</span>    
-
-<span style="font-family: 'Cambria', serif;">Dec. 2019: National Undergraduate Scholarship</span>   
-<!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
-<!-- - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
 
 
 <!-- 
