@@ -29,11 +29,11 @@ redirect_from:
 | <i class="fa fa-github"></i> <a href="https://github.com/thu-ml/TurboDiffusion"><img src="https://img.shields.io/github/stars/thu-ml/TurboDiffusion.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
 
 ---
-**<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">ICML</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity</span>  
-<span style="font-family: 'Cambria', serif;">Haocheng Xi, Shuo Yang, Yilong Zhao, Chenfeng Xu, Muyang Li, Xiuyu Li, Yujun Lin, Han Cai, <strong><u>Jintao Zhang</u></strong>, Dacheng Li, Jianfei Chen, Ion Stoica, Kurt Keutzer, Song Han</span>  
-2025, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/pdf/2502.01776">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/svg-project/Sparse-VideoGen"><img src="https://img.shields.io/github/stars/svg-project/Sparse-VideoGen.svg" alt="GitHub stars" style="vertical-align: middle;"></a> |
+**<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">MobiCom</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Liuqun Zhai, Yuguang Fang, Jun Huang</span>  
+2024, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/10.1145/3636534.3690673)">paper</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/Neuralite"><img src="https://img.shields.io/github/stars/svg-project/Sparse-VideoGen.svg" 
 
 ---
 
