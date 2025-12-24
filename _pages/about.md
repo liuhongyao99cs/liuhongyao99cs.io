@@ -33,7 +33,7 @@ redirect_from:
 <span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>, Junyi Wang, Liuqun Zhai, Yuguang Fang, Jun Huang</span>  
 2024, <span style="font-size:14px;">CCF-A, Research track, Full paper</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/10.1145/3636534.3690673)">paper</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/Neuralite">
+| <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/Neuralite"></a> |
 
 ---
 
