@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hongyao LIU (刘泓尧)"
-  avatar           : "/images/profile.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "A Ph.D. student at CityUHK."
   location         : "Hong Kong"
   # employer         :
