@@ -9,51 +9,32 @@
 locale                   : "Hong Kong"
 title                    : "Home Page"
 title_separator          : "-"
+locale                   : "en-US" # 建议改为 en-US，除非你的网页全是中文
+title                    : "Hongyao LIU" # 网页标签页显示的标题
+title_separator          : "-"
 name                     : &name "Hongyao LIU (刘泓尧)"
 description              : &description "A Ph.D. student at CityUHK."
-url                      : https://liuhongyao99cs.github.io/liuhongyao99cs.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+# -------------------------------------------------------------------------
+# 关键配置修改 (Key Configuration Fixes)
+# -------------------------------------------------------------------------
+# 你的仓库名是 liuhongyao99cs.github.io，这是你的个人主页仓库。
+# GitHub 会自动将其部署在根目录下，而不是子目录下。
+
+url                      : "https://liuhongyao99cs.github.io" # 不要在这个后面加子路径
+baseurl                  : "" # 必须留空！因为你是 User Page
 repository               : "liuhongyao99cs/liuhongyao99cs.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+
+# -------------------------------------------------------------------------
+
+teaser                   : # 保持为空或填入默认图片
+breadcrumbs              : true # 建议开启，方便导航
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+read_more                : "disabled"
+talkmap_link             : false
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+# ... (中间的 Comments 部分保持默认即可，除非你注册了 Disqus) ...
 
 # Social Sharing
 twitter:
@@ -62,27 +43,22 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 : # 用于社交媒体分享时的预览图
+
+# Social Profiles (侧边栏社交链接)
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Hongyao LIU (刘泓尧)"
+  links:
+    - "https://twitter.com/Winterice10"
+    - "https://github.com/liuhongyao99cs" # 建议加上你的 GitHub 链接
+    # - "https://scholar.google.com/..." # 建议加上 Google Scholar
 
-
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
-
-# Site Author
+# Site Author (侧边栏个人信息)
 author:
   name             : "Hongyao LIU (刘泓尧)"
-  avatar           : "/images/profile.jpeg"
-  bio              : "A Ph.D. student at CityUHK."
+  avatar           : "/images/profile.jpeg" # 确保你在仓库的 images 文件夹下放了一张叫 profile.jpeg 的照片
+  bio              : "A Ph.D. student at City University of Hong Kong (CityUHK)."
   location         : "Hong Kong"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
