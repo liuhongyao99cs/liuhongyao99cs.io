@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 <p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
-  I am a third-year Ph.D. student in the Department of Computer Science at <strong>City University of Hong Kong</strong>. I am supervised by <a href="https://www.cs.cityu.edu.hk/~jhuan9/" target="_blank" rel="noopener noreferrer">Prof. Jun Huang</a>. I was the bachelor of Communication Engineering, BUPT.
+  I am a third-year Ph.D. student in the Department of Computer Science at <strong>City University of Hong Kong</strong>. I am supervised by <a href="https://www.cs.cityu.edu.hk/~jhuan9/" target="_blank" rel="noopener noreferrer">Prof. Jun Huang</a>. I was a undergraduate student of Communication Engineering, BUPT 2018-2022.
 </p>
 
 <p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;">
@@ -73,7 +73,7 @@ redirect_from:
 ## Projects
 ---
 **<span style="background-color: #198754; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">iBCI</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">32-channel wireless iBCI headstage</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong>
+<span style="font-family: 'Cambria', serif;"><strong><u>Hongyao Liu</u></strong></span> 
 | <i class="fa fa-github"></i> <a href="https://github.com/liuhongyao99cs/32-Channel-Wireless-BCI-Headstage" target="_blank" style="
     background-color: #24292e; 
     color: white; 
